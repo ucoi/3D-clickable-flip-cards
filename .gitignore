@@ -1,5 +1,6 @@
 # Compiled CSS files
 task.css
+task.css.map
 
 # Node modules
 node_modules/
